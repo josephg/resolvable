@@ -8,6 +8,7 @@
     "prepublish": "npm run build",
     "build": "tsc"
   },
+  "files": ["index.*"],
   "repository": "git@github.com:josephg/resolvable.git",
   "author": "Joseph Gentle <me@josephg.com>",
   "license": "ISC",
